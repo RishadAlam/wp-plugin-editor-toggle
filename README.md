@@ -1,6 +1,6 @@
 # WP Plugin Editor Toggle
 
-**Contributors:** rishadalam  
+**Contributors:** rishadbitcode  
 **Tags:** plugin editor, theme editor, security, admin tools, file editor toggle  
 **Requires at least:** 5.0  
 **Tested up to:** 6.5  
